@@ -10,7 +10,7 @@ const Projects = () => {
       'Designed and implemented backend services and APIs for critical business processes. ' +
       'Collaborated with global teams to deliver high-quality, reliable solutions. ' +
       'Contributed to automation, performance optimization, and system enhancements.',
-      image: 'https://images.pexels.com/photos/4386321/pexels-photo-4386321.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: '/231121115821-mastercard-logo-file copy.jpg',
       technologies: ['React', 'Node.js', 'MongoDB', 'Spring', 'API', 'Kafka', 'GraphQL', 'Tailwind CSS'],
       liveUrl: 'https://www.linkedin.com/company/mastercard/',
       githubUrl: 'https://github.com',
@@ -23,7 +23,7 @@ const Projects = () => {
       'Developed and maintained modular services and APIs to support enterprise operations. ' +
       'Collaborated with cross-functional teams on design, development, and deployment. ' +
       'Contributed to process improvements, efficiency, and automation initiatives.',
-      image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=600',
+      image: '/Cognizant-Chennai copy.jpg',
       technologies: ['Next.js', 'TypeScript', 'SQL', 'RESTful APIs', 'Terraform ' , 'Kubernetes', 'Spark'],
       liveUrl: 'https://www.linkedin.com/company/cognizant/',
       githubUrl: 'https://github.com',
